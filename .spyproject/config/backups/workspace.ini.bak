@@ -4,7 +4,7 @@ save_data_on_exit = True
 save_history = True
 save_non_project_files = False
 project_type = 'empty-project-type'
-recent_files = ['CodesAndApps\\Chp_3_Prediction_Simple_linear_regression\\simplelinearregression.py']
+recent_files = ['CodesAndApps\\Chp_9_Comparison_Prediction_Methods\\homework.py', 'CodesAndApps\\Chp_5_Prediction_Polinomial_regression\\polinomial_regression.py']
 
 [main]
 version = 0.2.0

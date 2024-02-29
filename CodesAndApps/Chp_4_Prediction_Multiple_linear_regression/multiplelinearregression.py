@@ -119,7 +119,7 @@ regressor2.fit(x_train, y_train)
 
 y_pred = regressor2.predict(x_test)
 
-
+# necessary and unnecesary variables 
 import statsmodels.api as sm
 
 X = np.append(arr=np.ones((22,1)).astype(int), values=yeni_process_data, axis=1)
